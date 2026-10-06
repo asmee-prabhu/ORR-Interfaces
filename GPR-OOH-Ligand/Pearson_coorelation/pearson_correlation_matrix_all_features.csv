@@ -1,0 +1,7 @@
+,Delta Bader,ICOBI-L1,Work Function,d-band center,d-band width,Strain
+Delta Bader,1.0,0.391,-0.718,-0.107,0.359,-0.488
+ICOBI-L1,0.391,1.0,-0.674,0.522,-0.186,0.293
+Work Function,-0.718,-0.674,1.0,-0.03,-0.21,0.016
+d-band center,-0.107,0.522,-0.03,1.0,-0.898,0.505
+d-band width,0.359,-0.186,-0.21,-0.898,1.0,-0.626
+Strain,-0.488,0.293,0.016,0.505,-0.626,1.0
